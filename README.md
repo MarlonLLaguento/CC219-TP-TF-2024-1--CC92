@@ -17,7 +17,7 @@ El dataset titulado “Fake Reviews Dataset” se obtuvo de la plataforma Kaggle
 Este dataset es considerado semi estructurado.
 
 ## Conclusiones
-
+Se utilizaron SVM, Random Forest y Naive Bayes para clasificar reseñas. SVM mostró mejor desempeño con 88% de precisión y AUC de 0.95. Random Forest obtuvo 86% de precisión y Naive Bayes 74%. Se sugiere optimizar hiperparámetros y añadir características contextuales.
 ## Licencia
 ### Licencia del Dataset
 El dataset titulado “Fake Reviews Dataset” se obtuvo de la plataforma Kaggle. Está disponible bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
